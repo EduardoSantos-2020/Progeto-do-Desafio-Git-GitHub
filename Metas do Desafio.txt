@@ -1,0 +1,5 @@
+1- Iniciar um repositório 
+2- Incluir Aquivos 
+3- Criar um Commit para possamos ter um registro na Plataforma
+4-  Depois enviar para GitHub
+
